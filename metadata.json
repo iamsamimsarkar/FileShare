@@ -1,0 +1,6 @@
+{
+  "name": "QuickShare Connect Studio",
+  "description": "Cross-device Windows (PySide6) and Android (Kotlin Compose) file-sharing architecture blueprint, protocol inspector, and dual-device interactive simulator optimized for 4 GB RAM Windows 10 workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
